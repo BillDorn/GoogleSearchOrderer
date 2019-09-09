@@ -1,0 +1,39 @@
+#activeTabs {
+    border: 1px solid #DDD;
+    width: -moz-fit-content;
+    height: -moz-fit-content;
+    min-width: 34px;
+    min-height: 38px;
+}
+.list-group-item {
+    padding: 8px;
+    margin: 1px;
+    border: 1px solid #DDD;
+    border-radius: 5px;
+    float: left;
+}
+#hiddenTabs {
+    border: 1px solid #DDD;
+    width: -moz-fit-content;
+    height: -moz-fit-content;
+    min-width: 34px;
+    min-height: 38px;
+    opacity: 0.5;
+}
+#saveButton {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 10px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+}
+.drag {
+    background-color: #AAA;
+}
+.ghost {
+    visibility: hidden;
+}
