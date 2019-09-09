@@ -1,0 +1,6 @@
+.idea
+.DS_Store
+.settings
+.project
+.checkstyle
+web-ext-artifacts/
