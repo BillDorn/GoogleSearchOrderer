@@ -2,7 +2,7 @@
   "description": "Order or hide category tabs in Google search results.",
   "manifest_version": 2,
   "name": "Google Results Order Customizer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Bill Dorn",
   "icons": {
     "48": "icons/icon48.png",
